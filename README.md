@@ -41,23 +41,6 @@ Artificial Intelligence Student | Networking Enthusiast 🚀
 
 ---
 
-## 🏗️ Project Structure
-
-network-topology/
-│
-├── Large_Network.pkt # Cisco Packet Tracer project file
-├── README.md # Project documentation
-├── ip-addressing-table.xlsx # IP assignment table (optional)
-│
-└── configs/
-├── router1-config.txt
-├── router2-config.txt
-├── router3-config.txt
-└── dns-server-config.txt
-
-
----
-
 ## ▶️ How to Run
 1. Install **Cisco Packet Tracer (v7.0 or higher)**  
 2. Open the file: `Large_Network.pkt`  
